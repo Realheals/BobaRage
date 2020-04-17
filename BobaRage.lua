@@ -1,8 +1,7 @@
 local frame = CreateFrame("Frame");
 frame:RegisterEvent("PLAYER_TARGET_CHANGED");
 
-NOISE_AMP = 15
-
+NOISE_AMP = 10
 
 local function eventHandler(self, event, ...)
 	if UnitName("target") == "Gurubashi Berserker" then
