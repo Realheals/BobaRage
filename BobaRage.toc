@@ -1,0 +1,8 @@
+## Interface: 11304
+## Title: BobaRage
+## Version: 0.1alphachad
+## Notes: Addon for boba moments
+## Author: Realheals @ Atiesh a.k.a Conistiree
+## DefaultState: enabled
+
+BobaRage.lua
